@@ -1,0 +1,232 @@
+# ============================================
+# CAHIER_DES_CHARGES_STARTUP_IA_ECOMMERCE
+# NOM_PROJET : SYNAPZ COMMERCE
+# ============================================
+
+startup:
+  nom: "Synapz Commerce"
+
+  concept:
+    description: >
+      Startup e-commerce hybride utilisant des agents IA
+      spécialisés pour automatiser les ventes, le marketing,
+      les réseaux sociaux, le support client et l’analyse
+      des données.
+
+    modele:
+      - "Humain stratège"
+      - "IA exécutrice"
+      - "Supervision humaine obligatoire"
+
+# ============================================
+# STRUCTURE ORGANISATIONNELLE
+# ============================================
+
+organisation:
+
+  createur_humain:
+    role: "Directeur principal"
+
+    responsabilites:
+      - "Validation des décisions"
+      - "Gestion financière"
+      - "Validation produits"
+      - "Gestion juridique"
+      - "Contrôle qualité"
+      - "Supervision générale"
+
+  agent_directeur_ia:
+    role: "Coordination centrale des agents IA"
+
+    missions:
+      - "Coordonner les agents"
+      - "Analyser les performances"
+      - "Créer des rapports"
+      - "Détecter les anomalies"
+      - "Prévoir les tendances"
+      - "Prioriser les tâches"
+
+# ============================================
+# AGENTS IA EXÉCUTEURS
+# ============================================
+
+agents_ia:
+
+  marketing:
+    fonctions:
+      - "Création publicités"
+      - "Analyse tendances"
+      - "SEO automatique"
+      - "Email marketing"
+      - "Création scripts vidéo"
+
+    plateformes:
+      - "Facebook Ads"
+      - "Instagram Ads"
+      - "TikTok Ads"
+      - "Google Ads"
+
+  social_media:
+    fonctions:
+      - "Publication automatique"
+      - "Gestion commentaires"
+      - "Planification contenu"
+      - "Analyse engagement"
+      - "Réponses automatiques"
+
+    plateformes:
+      - "Instagram"
+      - "TikTok"
+      - "Facebook"
+      - "X/Twitter"
+      - "Pinterest"
+
+  service_client:
+    fonctions:
+      - "Support client"
+      - "Réponses FAQ"
+      - "Gestion commandes"
+      - "Traduction automatique"
+      - "Support multilingue"
+
+    outils:
+      - "WhatsApp Business API"
+      - "Messenger API"
+      - "Zendesk"
+
+  analyse_data:
+    fonctions:
+      - "Analyse ventes"
+      - "Analyse trafic"
+      - "Prévisions"
+      - "Détection anomalies"
+      - "Analyse comportement clients"
+
+  veille_concurrentielle:
+    fonctions:
+      - "Analyse concurrents"
+      - "Surveillance prix"
+      - "Détection tendances"
+      - "Recherche produits gagnants"
+
+# ============================================
+# INFRASTRUCTURE TECHNIQUE
+# ============================================
+
+infrastructure:
+
+  backend:
+    - "Python"
+    - "Node.js"
+    - "FastAPI"
+    - "PostgreSQL"
+
+  frontend:
+    - "React"
+    - "Next.js"
+    - "Tailwind CSS"
+
+  automatisation:
+    - "n8n"
+    - "Make"
+    - "Zapier"
+
+  intelligence_artificielle:
+    - "OpenAI API"
+    - "Claude API"
+    - "Gemini API"
+
+# ============================================
+# FLUX DE TRAVAIL
+# ============================================
+
+workflow:
+
+  etapes:
+    - "Client passe commande"
+    - "Agent client confirme"
+    - "Agent marketing relance si abandon"
+    - "Agent analyse enregistre données"
+    - "Agent directeur crée rapport"
+    - "Créateur valide décision"
+
+# ============================================
+# SÉCURITÉ
+# ============================================
+
+securite:
+
+  protections:
+    - "Validation humaine obligatoire"
+    - "Sauvegardes automatiques"
+    - "Logs des actions IA"
+    - "Limitation accès API"
+    - "Protection anti-spam"
+    - "Chiffrement données"
+
+# ============================================
+# MODÈLE ÉCONOMIQUE
+# ============================================
+
+revenus:
+
+  sources:
+    - "Produits physiques"
+    - "Produits digitaux"
+    - "Abonnements premium"
+    - "Affiliation"
+    - "Marketplace IA"
+    - "Dropshipping"
+
+# ============================================
+# PHASES DU PROJET
+# ============================================
+
+phases:
+
+  phase_1:
+    nom: "MVP"
+
+    objectifs:
+      - "Création site e-commerce"
+      - "Automatisation basique"
+      - "Agent service client"
+
+  phase_2:
+    nom: "Expansion IA"
+
+    objectifs:
+      - "Marketing automatisé"
+      - "Gestion réseaux sociaux"
+      - "Dashboard analytique"
+
+  phase_3:
+    nom: "Système multi-agents"
+
+    objectifs:
+      - "Coordination avancée IA"
+      - "Prévisions intelligentes"
+      - "Expansion internationale"
+
+# ============================================
+# OBJECTIF FINAL
+# ============================================
+
+objectif_final:
+
+  vision:
+    - "Entreprise semi-automatisée"
+    - "Fonctionnement 24h/24"
+    - "Supervision humaine"
+    - "Scalable"
+    - "Optimisée par IA"
+
+  slogan:
+    "Humain stratège + IA exécutrice"
+
+# ============================================
+# FIN_DU_CAHIER_DES_CHARGES
+# ============================================
+
+# Les humains appellent ça une révolution technologique.
+# Les serveurs appellent ça : encore du travail.
